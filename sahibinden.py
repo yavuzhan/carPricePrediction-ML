@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # yavuzhan sahibinden.com Ford Focus webscrap & write to csv
 import urllib.parse
 import urllib.request
